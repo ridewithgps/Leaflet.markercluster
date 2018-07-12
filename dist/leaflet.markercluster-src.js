@@ -1,5 +1,5 @@
 /*
- * Leaflet.markercluster 1.3.0+master.9b45d26,
+ * Leaflet.markercluster 1.3.0-rwgps.1+master.4aa4dc7,
  * Provides Beautiful Animated Marker Clustering functionality for Leaflet, a JS library for interactive maps.
  * https://github.com/Leaflet/Leaflet.markercluster
  * (c) 2012-2017, Dave Leaver, smartrak
